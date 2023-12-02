@@ -82,3 +82,12 @@
     font-size:24px ;
     color: #fcfc6a;
 }
+#inMonths span{
+    height: 60px;
+    width: 120px;
+    background: #fff;
+    font-size:20px ;
+    color: black;
+    border: none;
+    border-radius: 10px;
+}
